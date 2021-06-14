@@ -5,7 +5,7 @@ title: DevOps on Azure
 
 # App modernization
 
-April 2021
+June 2021
 
 ## Target audience
 
