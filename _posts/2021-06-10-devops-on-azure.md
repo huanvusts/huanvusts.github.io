@@ -1,9 +1,7 @@
 ---
 layout: page
-title: DevOps on Azure
+title: DevOps on Azure - App modernization
 ---
-
-# App modernization
 
 June 2021
 
