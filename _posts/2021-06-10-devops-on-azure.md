@@ -29,9 +29,6 @@ In this hands-on lab, you implement the steps to move a legacy on-premises appli
 
 At the end of this hands-on lab, your ability to build solutions for modernizing legacy on-premises applications and infrastructure using cloud services will be improved.
 
-1. [Manual Setup guide](https://github.com/huanvusts/MCW-App-Modernization/blob/main/Hands-on%20lab/Manual-resource-setup.md)
-2. [Hand on lab step-by-step guide](https://github.com/huanvusts/MCW-App-Modernization/blob/main/Hands-on%20lab/HOL%20step-by-step%20-%20App%20modernization.md)
-
 ## Azure services and related products
 
 - App Services
