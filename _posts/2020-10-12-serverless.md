@@ -3,7 +3,7 @@ layout: page
 title: Serverless
 ---
 
-## In this workshop, you will gain the knowledge about:
+## In this workshop, you will gain:
 
 - Serverless Landscape and the trends
 - Unifying data with Hasura GraphQL Engine & Azure functions
