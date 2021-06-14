@@ -1,3 +1,8 @@
+---
+layout: page
+title: .NET Core + Serverless + GraphQL workshop
+---
+
 # Workshop Content
 
 ## GraphQL API

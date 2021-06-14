@@ -1,12 +1,8 @@
 ---
 layout: page
-title: About
+title: My Contact
 permalink: /about/
 ---
-
-## Thank you for contacting me
-
-## \_
 
 ![Huan Vu](https://avatars.githubusercontent.com/u/63707460?v=4&s=150)
 
