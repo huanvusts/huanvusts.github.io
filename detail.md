@@ -15,7 +15,7 @@ permalink: /detail
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;500&display=swap" rel="stylesheet">
     <link rel="shortcut icon" href="assets/img/SaigonThink1.png">
 
-    <title>Dao Vo Self-introduce</title>
+    <title>Huan Vu Self-introduce</title>
     <style>
     * {
         margin: 0;
