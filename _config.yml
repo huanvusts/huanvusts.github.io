@@ -18,16 +18,18 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Own blog
-email: huanvu@outlook.com
+title: Huan's blog
+email: huan.vu@saigonthink.vn
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+Provided execution oversight for all projects under the delivery department to ensure smooth project execution, quality of software products, clients’ satisfaction.
+Acted program technical manager role for various projects at the same time.
+&gt; 10 years of experience in .NET technology, Java, Cloud, DevOps, Frontend, ...
+Demonstrated experience leading, technical leadership and software architecture from small to big sized teams
+Good experience in designing software architecture support high scalability and extensibility for small to large projects
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: huanvu
-github_username:  huanvu
+url: "https://saigonthink.vn" # the base hostname & protocol for your site, e.g. http://example.com
+#twitter_username: huanvu
+github_username:  huanvusts
 
 # Build settings
 theme: minima
