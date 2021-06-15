@@ -1,6 +1,7 @@
-# App modernization
-
-## Hands-on lab step-by-step guide
+---
+layout: page
+title: DevOps - Hands-on lab Day 2
+---
 
 Jun 2021
 
