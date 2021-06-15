@@ -8,7 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -21,21 +21,20 @@
 title: Huan's blog
 email: huan.vu@saigonthink.vn
 description: >- # this means to ignore newlines until "baseurl:"
-Provided execution oversight for all projects under the delivery department to ensure smooth project execution, quality of software products, clients’ satisfaction.
-Acted program technical manager role for various projects at the same time.
-&gt; 10 years of experience in .NET technology, Java, Cloud, DevOps, Frontend, ...
-Demonstrated experience leading, technical leadership and software architecture from small to big sized teams
-Good experience in designing software architecture support high scalability and extensibility for small to large projects
+  Provided execution oversight for all projects under the delivery department to ensure smooth project execution, quality of software products, clients’ satisfaction.
+  Acted program technical manager role for various projects at the same time.
+  &gt; 10 years of experience in .NET technology, Java, Cloud, DevOps, Frontend, ...
+  Demonstrated experience leading, technical leadership and software architecture from small to big sized teams
+  Good experience in designing software architecture support high scalability and extensibility for small to large projects
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://saigonthink.vn" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: huanvu
-github_username:  huanvusts
+github_username: huanvusts
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
-
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
