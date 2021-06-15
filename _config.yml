@@ -21,11 +21,8 @@
 title: Huan's blog
 email: huan.vu@saigonthink.vn
 description: >- # this means to ignore newlines until "baseurl:"
-  Provided execution oversight for all projects under the delivery department to ensure smooth project execution, quality of software products, clients’ satisfaction.<br/>
-  Acted program technical manager role for various projects at the same time.<br/>
-  > 10 years of experience in .NET technology, Java, Cloud, DevOps, Frontend, ...<br/>
-  Demonstrated experience leading, technical leadership and software architecture from small to big sized teams<br/>
-  Good experience in designing software architecture support high scalability and extensibility for small to large projects<br/>
+  I provided execution oversight for all projects under the delivery department to ensure smooth project execution, quality of software products, clients’ satisfaction and 
+  acted program technical manager role for various projects at the same time.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://saigonthink.vn" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: huanvu
